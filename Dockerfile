@@ -19,5 +19,4 @@ VOLUME /opt/blask
 
 COPY . /opt/blask
 
-
 CMD ["gunicorn", "-b", "0.0.0.0:8000","--workers", "4", "main"]
