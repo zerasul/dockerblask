@@ -1,7 +1,7 @@
 # dockerblask
 Docker Blask Image
 
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/zerasul/blask) ![MicroBadger Layers (tag)](https://img.shields.io/microbadger/layers/zerasul/blask/latest) ![Docker Image Version (tag latest semver)](https://img.shields.io/docker/v/zerasul/blask/0.2.1)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/zerasul/blask) ![MicroBadger Layers (tag)](https://img.shields.io/microbadger/layers/zerasul/blask/latest) ![Docker Image Version (tag latest semver)](https://img.shields.io/docker/v/zerasul/blask/0.2.3)
 
 This repository contains the DockerFile and minimal configuration for create and deploy a blask application.
 Blask is an Open Source Blog engine based on Flask. For more information, please see [Blask project webpage](https://getblask.com).
