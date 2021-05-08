@@ -1,6 +1,6 @@
 import argparse
 import logging
-from Blask import BlaskApp as Blask
+from blask import BlaskApp as Blask
 
 application = Blask().app
 
